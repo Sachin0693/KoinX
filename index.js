@@ -108,3 +108,6 @@ app.listen(PORT, () => {
     console.log(`server running on port ${PORT}`);
     fetchEthereumPrice(); 
 });
+
+// for transactions use link : http://localhost:3000/api/transactions/0xce94e5621a5f7068253c42558c147480f38b5e0d ;
+// for expenses use link : http://localhost:3000/api/expenses/0xce94e5621a5f7068253c42558c147480f38b5e0d
